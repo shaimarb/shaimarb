@@ -39,6 +39,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shaima-ra
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
   <a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"></a>
+  <a href="https://graphql.org/"><img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
   <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"></a>
 </div>
